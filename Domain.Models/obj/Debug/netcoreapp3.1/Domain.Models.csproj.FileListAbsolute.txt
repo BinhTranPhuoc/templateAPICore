@@ -1,0 +1,4 @@
+E:\TemplateAPICore\Domain.Models\bin\Debug\netcoreapp3.1\Domain.Models.deps.json
+E:\TemplateAPICore\Domain.Models\bin\Debug\netcoreapp3.1\Domain.Models.dll
+E:\TemplateAPICore\Domain.Models\obj\Debug\netcoreapp3.1\Domain.Models.AssemblyInfoInputs.cache
+E:\TemplateAPICore\Domain.Models\obj\Debug\netcoreapp3.1\Domain.Models.AssemblyInfo.cs
